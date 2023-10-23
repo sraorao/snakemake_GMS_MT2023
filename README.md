@@ -35,6 +35,6 @@ It is not important for you to know the shell commands themselves, as you can su
 
 First, clone this repo (all code preceded by `$` is to be entered at the terminal (command-line):
 ```
-$ git clone https://github.com/sraorao/snakemake_GMS_MT2021
+$ git clone git@github.com:sraorao/snakemake_GMS_MT2023.git
 $ cd snakemake_GMS_MT2022
 ```
