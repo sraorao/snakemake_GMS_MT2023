@@ -1,0 +1,29 @@
+dataset	type	number_of_features	median_length
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.1	lnc_RNA (ribozyme)	1	0.42kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.1	ncRNA_gene (ribozyme)	1	0.42kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.1	ncRNA_gene (scaRNA)	1	0.32kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.1	region	1	158534.11kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.1	scRNA (scaRNA)	1	0.32kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.1	pseudogene (processed_pseudogene)	8	0.40kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.1	pseudogenic_transcript (processed_pseudogene)	8	0.40kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.1	pseudogene (pseudogene)	18	0.67kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.1	pseudogenic_transcript (pseudogene)	18	0.67kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.1	ncRNA_gene (rRNA)	20	0.12kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.1	rRNA (rRNA)	20	0.12kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.1	ncRNA (misc_RNA)	21	0.25kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.1	ncRNA_gene (misc_RNA)	21	0.25kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.1	miRNA (miRNA)	32	0.07kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.1	ncRNA_gene (miRNA)	32	0.07kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.1	ncRNA_gene (snoRNA)	33	0.13kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.1	snoRNA (snoRNA)	33	0.13kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.1	ncRNA_gene (lncRNA)	57	11.89kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.1	ncRNA_gene (snRNA)	62	0.11kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.1	snRNA (snRNA)	62	0.11kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.1	lnc_RNA (lncRNA)	79	11.03kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.1	gene (protein_coding)	876	25.43kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.1	three_prime_UTR	898	0.47kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.1	five_prime_UTR	1421	0.11kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.1	mRNA (protein_coding)	1547	36.51kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.1	biological_region	14586	0.07kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.1	CDS	16817	0.13kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.1	exon	17784	0.13kb

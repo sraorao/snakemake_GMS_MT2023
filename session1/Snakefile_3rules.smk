@@ -3,6 +3,7 @@ workdir: config["WORKING_FOLDER"]
 # shell.executable("/bin/bash")
 # shell.prefix("source ~/.bashrc; ")
 
+print("This is the start of the file")
 #### TASK ####
 # Create a file containing alphabets A to Z, each on a separate line
 # Create a file containing numbers 1 to 26, each on a separate line

@@ -8,18 +8,9 @@ print(reference_file)
 
 rule all:
     input:
-        "output/edited_files/snakemake_output_0.txt",
-        "output/edited_files/snakemake_output_1.txt",
-        "output/edited_files/snakemake_output_2.txt",
-        "output/edited_files/snakemake_output_3.txt",
-        "output/edited_files/snakemake_output_4.txt",
-        "output/edited_files/snakemake_output_5.txt",
-        "output/edited_files/snakemake_output_6.txt",
-        "output/edited_files/snakemake_output_7.txt",
-        "output/edited_files/snakemake_output_8.txt",
-        "output/edited_files/snakemake_output_9.txt"
         # hint:
         # use expand() to do the above concisely in one line
+        expand("output/edited_files/snakemake_output_{filenum}.txt", filenum=['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']) 
 
 rule edit_text:
     input: "data_wildcards/snakemake_input_{num}.txt"

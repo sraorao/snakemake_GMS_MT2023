@@ -1,0 +1,27 @@
+dataset	type	number_of_features	median_length
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.2	ncRNA_gene (scaRNA)	1	0.17kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.2	region	1	136231.10kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.2	scRNA (scaRNA)	1	0.17kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.2	pseudogene (processed_pseudogene)	3	0.47kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.2	pseudogenic_transcript (processed_pseudogene)	3	0.47kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.2	ncRNA_gene (rRNA)	10	0.11kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.2	rRNA (rRNA)	10	0.11kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.2	pseudogene (pseudogene)	11	0.77kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.2	pseudogenic_transcript (pseudogene)	11	0.77kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.2	ncRNA (misc_RNA)	17	0.17kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.2	ncRNA_gene (misc_RNA)	17	0.17kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.2	miRNA (miRNA)	31	0.08kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.2	ncRNA_gene (miRNA)	31	0.08kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.2	ncRNA_gene (snoRNA)	44	0.12kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.2	snoRNA (snoRNA)	44	0.12kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.2	ncRNA_gene (lncRNA)	47	10.04kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.2	lnc_RNA (lncRNA)	67	9.52kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.2	ncRNA_gene (snRNA)	75	0.11kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.2	snRNA (snRNA)	75	0.11kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.2	gene (protein_coding)	889	23.00kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.2	three_prime_UTR	942	0.54kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.2	mRNA (protein_coding)	1598	33.43kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.2	five_prime_UTR	1650	0.11kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.2	biological_region	14165	0.07kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.2	CDS	20748	0.12kb
+Bos_taurus.ARS-UCD1.2.110.primary_assembly.2	exon	21799	0.13kb
